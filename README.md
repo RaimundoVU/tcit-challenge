@@ -1,4 +1,3 @@
-## Curency Bird Challenge
 
 # Dependencias
 La única dependencia para este proyecto es tener instalado alguna versión de Node. Para este proyecto se usa la siguiente:
